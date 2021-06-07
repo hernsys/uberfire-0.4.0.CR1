@@ -37,7 +37,7 @@
     <!-- ################################################################################ -->
     <!-- External dependency versions -->
     <!-- ################################################################################ -->
-    <version.ch.qos.logback>1.0.9</version.ch.qos.logback>
+    <version.ch.qos.logback>1.2.0</version.ch.qos.logback>
     <version.org.slf4j>1.7.2</version.org.slf4j>
 
     <version.org.mortbay.jetty>6.1.25</version.org.mortbay.jetty>
