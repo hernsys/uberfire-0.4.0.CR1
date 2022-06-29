@@ -38,7 +38,7 @@
     <!-- External dependency versions -->
     <!-- ################################################################################ -->
     <version.ch.qos.logback>1.0.9</version.ch.qos.logback>
-    <version.org.slf4j>1.7.2</version.org.slf4j>
+    <version.org.slf4j>1.7.26</version.org.slf4j>
 
     <version.org.mortbay.jetty>6.1.25</version.org.mortbay.jetty>
     <version.org.eclipse.jetty>7.2.1.v20101111</version.org.eclipse.jetty>
